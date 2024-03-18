@@ -1,0 +1,30 @@
+.square1{
+    height: 15%;
+    width: 173%;
+    display: flex;
+    background-color: darkgrey;
+    padding-top: 0%;
+    padding-right: 0%;
+    margin-left: 0%;
+    position:sticky
+        
+
+}
+
+.square2{
+    color: black;
+    font-style: initial;
+    font-size: 270%;
+    text-align: center;
+    padding-top: 1;
+    padding-left: 10%;
+    scroll padding; 50%    
+}
+
+.SQUARE4{
+    font-size: large;
+    font-style: initial;
+    color: red;
+    background-color: grey;
+    cursor: pointer;
+}
